@@ -90,7 +90,7 @@
                                     $rowSum != $diag1 ||
                                     $rowSum != $diag2 ||
                                     $colSum != $diag1 ||
-                                    $colSum != $diag1
+                                    $colSum != $diag2
                                 ) {
                                     $answer = 0;
                                 }
