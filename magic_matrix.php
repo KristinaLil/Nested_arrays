@@ -93,6 +93,7 @@
                                     $colSum != $diag2
                                 ) {
                                     $answer = 0;
+                                    break;
                                 }
                             }
 
